@@ -565,3 +565,7 @@ Comprehensive demonstration of all 7 advanced search methods:
 - **Entity By Label Search** - filter entities by type/label
 
 This example uses a realistic penetration testing scenario with detailed test data to demonstrate each search method's capabilities.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
