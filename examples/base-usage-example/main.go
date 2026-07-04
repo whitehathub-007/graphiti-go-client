@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	graphiti "github.com/vxcontrol/graphiti-go-client"
+	graphiti "github.com/whitehathub-007/graphiti-go-client"
 
 	"github.com/google/uuid"
 )

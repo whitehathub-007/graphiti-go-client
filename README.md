@@ -20,7 +20,7 @@ A Go client library for the Graphiti HTTP API.
 ## Installation
 
 ```bash
-go get github.com/vxcontrol/graphiti-go-client
+go get github.com/whitehathub-007/graphiti-go-client
 ```
 
 ## Quick Start
@@ -36,7 +36,7 @@ See the complete working examples:
 ```go
 import (
     "time"
-    graphiti "github.com/vxcontrol/graphiti-go-client"
+    graphiti "github.com/whitehathub-007/graphiti-go-client"
 )
 
 // Create a client with default settings
